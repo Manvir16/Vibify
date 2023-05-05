@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Vibify/static/css/main.fbc2ebe5.chunk.css",
+    "main.js": "/Vibify/static/js/main.15cf02d8.chunk.js",
+    "main.js.map": "/Vibify/static/js/main.15cf02d8.chunk.js.map",
+    "runtime-main.js": "/Vibify/static/js/runtime-main.ce6bd28e.js",
+    "runtime-main.js.map": "/Vibify/static/js/runtime-main.ce6bd28e.js.map",
+    "static/js/2.2ec5067f.chunk.js": "/Vibify/static/js/2.2ec5067f.chunk.js",
+    "static/js/2.2ec5067f.chunk.js.map": "/Vibify/static/js/2.2ec5067f.chunk.js.map",
+    "static/js/3.90fbde79.chunk.js": "/Vibify/static/js/3.90fbde79.chunk.js",
+    "static/js/3.90fbde79.chunk.js.map": "/Vibify/static/js/3.90fbde79.chunk.js.map",
+    "index.html": "/Vibify/index.html",
+    "static/css/main.fbc2ebe5.chunk.css.map": "/Vibify/static/css/main.fbc2ebe5.chunk.css.map",
+    "static/js/2.2ec5067f.chunk.js.LICENSE.txt": "/Vibify/static/js/2.2ec5067f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Vibify/static/media/footer-bg-1.e53a1852.jpg",
+    "static/media/logo.85381a35.png": "/Vibify/static/media/logo.85381a35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce6bd28e.js",
+    "static/js/2.2ec5067f.chunk.js",
+    "static/css/main.fbc2ebe5.chunk.css",
+    "static/js/main.15cf02d8.chunk.js"
+  ]
+}
